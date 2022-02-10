@@ -126,7 +126,7 @@ fontDict = {'fontsize': 15}
 fig = plt.figure(figsize=(7, 9))
 ax = fig.subplots(3, 1)
 ax[0].errorbar(backgroundSpec[1], backgroundSpec[0])
-ax[0].set_title('Backgorund Radiation', fontdict=fontDict)
+ax[0].set_title('Background Radiation', fontdict=fontDict)
 ax[0].set_ylabel('Counts')
 ax[0].set_xlabel('Bin Number')
 ax[1].errorbar(Co60Spec[1], Co60Spec[0])
