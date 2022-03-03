@@ -1,0 +1,11 @@
+
+Detector #1      ACQ 17-Feb-2022 at  8:56:19   RT = 60.0   LT = 59.7
+            CK155-12 Easy-MCA-2k SN 11080666
+            This is spectrum 007
+
+ROI # 1     RANGE: 366 = 607.94keV  to  426 = 707.60keV
+            AREA : Gross =  11975    Net = 9515   +/- 179
+            CENTROID: 401.80  = 667.41keV
+            SHAPE: FWHM = 39.15     FW(1/5)M = 62.02
+            ID: J-132 at 667.72keV
+            Corrected Rate = 161.43 +/- 3.04 cA

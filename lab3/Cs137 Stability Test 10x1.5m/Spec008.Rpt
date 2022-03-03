@@ -1,0 +1,11 @@
+
+Detector #1      ACQ 17-Feb-2022 at  9:23:12   RT = 90.0   LT = 89.7
+            CK155-04 Easy-MCA-2k SN 12292282
+            This is spectrum 008
+
+ROI # 1     RANGE: 369 = 604.82keV  to  425 = 702.24keV
+            AREA : Gross =  9027    Net = 6984   +/- 156
+            CENTROID: 398.28  = 655.76keV
+            SHAPE: FWHM = 39.70     FW(1/5)M = 63.92
+            ID: Sb-126 at 656.30keV
+            Corrected Rate = 3555.23 +/- 79.41 cA

@@ -1,0 +1,39 @@
+
+Detector #1      ACQ 17-Feb-2022 at 11:07:05   RT = 120.0   LT = 119.6
+            CK155-04 Easy-MCA-2k SN 12292282
+            This is spectrum 002
+
+ROI # 1     RANGE: 471 = 788.35keV  to  536 = 900.08keV
+            AREA : Gross =  5983    Net = 3640   +/- 164
+            CENTROID: 503.34  = 843.95keV
+            SHAPE: FWHM = 43.45     FW(1/5)M = 69.00
+            ID: Eu-154 at 845.39keV
+            Corrected Rate = 5177.72 +/- 233.28 cA
+
+ROI # 2     RANGE: 564 = 948.23keV  to  647 = 1090.98keV
+            AREA : Gross =  3299    Net = 919   +/- 178
+            CENTROID: 596.98  = 1004.94keV
+            SHAPE: FWHM = 13.63     FW(1/5)M = 51.72
+            ID: Eu-154 at 1004.72keV
+            Corrected Rate = 42.92 +/- 8.31 cA
+
+ROI # 3     RANGE: 763 = 1290.58keV  to  844 = 1430.03keV
+            AREA : Gross =  3283    Net = 2135   +/- 129
+            CENTROID: 807.58  = 1367.33keV
+            SHAPE: FWHM = 45.48     FW(1/5)M = 68.24
+            ID: Sb-124 at 1368.16keV
+            Corrected Rate = 681.57 +/- 41.18 cA
+
+ROI # 4     RANGE: 1001 = 1700.47keV  to  1090 = 1853.88keV
+            AREA : Gross =  690    Net = 60   +/- 94
+            CENTROID: 1004.20  = 1705.98keV
+            SHAPE: FWHM = 2.33     FW(1/5)M = 9.75
+            ID: J-135 at 1706.46keV
+            Corrected Rate = 12.15 +/- 19.04 cA
+
+ROI # 5     RANGE: 1587 = 2711.77keV  to  1659 = 2836.23keV
+            AREA : Gross =  1260    Net = 566   +/- 91
+            CENTROID: 1616.45  = 2762.68keV
+            SHAPE: FWHM = 8.08     FW(1/5)M = 47.87
+            ID: Na-24 at 2754.00keV
+            Corrected Rate = 4.74 +/- 0.76 cA
